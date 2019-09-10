@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SolucionTaller2</string>
+    <string name="btnMenu">Menu</string>
+    <string name="btnJugar">Jugar</string>
+    <string name="txtNombre">¿Como te llamas?</string>
+
+    <string name="etVidas">Vidas: </string>
+    <string name="jugadorNombre">Jugador: </string>
+    <string name="totalScore">Score: </string>
+    <string name="btnSumar">Comprobar</string>
+    <string name="etRespuesta">Respuesta</string>
+
+
+</resources>
